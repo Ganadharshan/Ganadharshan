@@ -11,7 +11,7 @@
 <!-- TYPING ANIMATION -->
 
 <a href="https://github.com/Ganadharshan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&size=21&duration=2500&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Prev+Intern+%40+McCain+Foods;CS+Teaching+Assistant+%40+UNB;Looking+for+Co-op"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&size=21&duration=2500&pause=2000&center=true&vCenter=true&width=600&lines=Prev+Data+Quality+Intern+%40+McCain+Foods;CS+Teaching+Assistant+%40+University+of+New+Brunswick;Currently+Looking+for+Co-op+for+Winter+2027"/>
 </a>
 
 <br/>
