@@ -44,7 +44,7 @@ SQL and NoSQL Databases
 
 Development
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,java,c,js,ts,react,nextjs,nodejs,octave,html,css,regex&perline=5&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,anaconda,java,c,js,ts,react,nodejs,octave,html,css,regex&perline=5&theme=dark"/>
 
 Backend & Infrastructure
 
